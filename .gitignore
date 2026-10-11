@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ruff_cache/
+dist/
+
+# Secrets and local config
+.env
+.env.*
+
+# Private notes (quiz scores, learning log)
+notes/
+
+# macOS
+.DS_Store
